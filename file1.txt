@@ -7,3 +7,5 @@ This line is for feature2
 this line is for feature3
 this is also feature3
 this is also feature3
+
+this is feature4
